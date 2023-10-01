@@ -14,8 +14,8 @@
 ## 使用方法
 #### git clone
 ```
-git clone git@github.com:Pluslab/2022_leafony_A.git
-cd 2022_leafony_A
+git clone git@github.com:melon0658/BreaKING.git
+cd BreaKING
 ```
 #### 実行ファイル
 - ./x64/Debug/ に.exeファイルがあります。
